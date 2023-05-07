@@ -12,6 +12,8 @@ Extra fixes / improvements may be added in future releases.
 ## Screenshots
 ### Before
 <img src="https://user-images.githubusercontent.com/39166316/236677530-1d54be7a-6938-467d-83a2-4a9b5a88c069.png" width="50%" height="50%">
+Shadow "box" bug may occur on modern machines. 
 
 ### After
 <img src="https://user-images.githubusercontent.com/39166316/236676228-d3f42f8b-ec0a-48cd-8693-94fd0d055755.png" width="50%" height="50%">
+Shadows render properly.
