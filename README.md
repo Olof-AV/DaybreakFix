@@ -3,7 +3,8 @@ Mod for Higurashi Daybreak Kai that resolves common issues seen on modern machin
 
 ## Fixes
 The 1.0 version of Daybreak Fix helps with the following:
-- Starts the game as a High priority class process & sets the process affinity to CPU 0.
+- Fixes long loading times by starting the game with process affinity set to CPU 0 only.
+- Starts the game as a High priority class process, just in case.
 - Fixes an issue with shadows not rendering properly. (shadow "box" around character)
 
 Extra fixes / improvements may be added in future releases.
